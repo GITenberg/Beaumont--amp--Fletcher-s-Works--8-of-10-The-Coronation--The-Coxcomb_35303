@@ -1,0 +1,46 @@
+_repo: Beaumont--amp--Fletcher-s-Works--8-of-10-The-Coronation--The-Coxcomb_35303
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fletcher, John
+    aliases:
+    - Fletcher, Iohn
+    - Flecher, John
+    birthdate: 1579
+    deathdate: 1625
+    gutenberg_agent_id: '4606'
+    url: http://www.gutenberg.org/2009/agents/4606
+    wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_(playwright)
+  - agent_name: Beaumont, Francis
+    alias: Beamont, Francis
+    birthdate: 1584
+    deathdate: 1616
+    gutenberg_agent_id: '3603'
+    url: http://www.gutenberg.org/2009/agents/3603
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Beaumont
+  editor:
+    agent_name: Waller, A. R. (Alfred Rayney)
+    alias: Waller, Alfred Rayney
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '956'
+    url: http://www.gutenberg.org/2009/agents/956
+description: ''
+gutenberg_issued: '2011-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+tableOfContents: The Womans Prize -- The Island Princess -- The Noble Gentleman --
+  The Coronation -- The Coxcomb
+title: Beaumont and Fletcher's Works, Vol. 08 of 10
+url: http://www.gutenberg.org/ebooks/35303
